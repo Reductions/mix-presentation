@@ -4,7 +4,7 @@
 #HSLIDE
 
 #### Нeобходими инструменти
-**Mix** е може би единствения необходим инструмент <!-- .element: class="fragment" -->
+Mix е може би единствения необходим инструмент <!-- .element: class="fragment" -->
 - инструмент за изпълнение на задачи <!-- .element: class="fragment" -->
 - идва директно с езика <!-- .element: class="fragment" -->
 - предоставя някои задачи на готово <!-- .element: class="fragment" -->
@@ -15,11 +15,11 @@
 
 #### Набавяне на съставки
 
-[**Hex**](https://hex.pm/) е вашия рафт със съставки за отвори <!-- .element: class="fragment" -->
+[Hex](https://hex.pm/) е вашия рафт със съставки за отвори <!-- .element: class="fragment" -->
 - публичен архив на Elixir и Erlang проекти <!-- .element: class="fragment" -->
 - подържа и документация за тях <!-- .element: class="fragment" -->
 
-[**github**](https://github.com/) (и всички подобни) са все едно да отидем и да се наберем гъби от гората  <!-- .element: class="fragment" -->
+[github](https://github.com/) (и всички подобни) са все едно да отидем и да се наберем гъби от гората  <!-- .element: class="fragment" -->
 - ако не намерим нещо подходящо в Hex може да изтеглим проект директно от github <!-- .element: class="fragment" -->
 - това не ни дава съсщите гаранции като Hex <!-- .element: class="fragment" -->
 - удобно е ако искаме да изпозваме някой друг наш проект, който обаче не е публичен <!-- .element: class="fragment" -->
